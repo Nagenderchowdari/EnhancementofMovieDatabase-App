@@ -1,0 +1,12 @@
+{
+  "name": "enhancementOfMovieDatabaseApp",
+  "version": "1.0.0",
+  "description": "The goal of this enhancement project is to understand the existing <a href=\"https://learning.ccbp.in/question/1c277f98-14f6-4744-aad9-c1021526e442\" target=\"_blank_\">Movie Database</a> code, and add the given functionalities within the existing <a href=\"https://learning.ccbp.in/question/1c277f98-14f6-4744-aad9-c1021526e442\" target=\"_blank_\">Movie Database</a> code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
